@@ -1,4 +1,4 @@
-# Online-Food-Business-Delivery-System
+# Online-Food-and-Business-Delivery-System
 The objective of this project is to create an online food delivery web application that consist of
 vendors local to Universiti Putra Malaysia, including cafeterias in colleges and personal
 businesses.
