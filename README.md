@@ -1,4 +1,4 @@
-# Online-Food-and-Business-Delivery-System
+# ONLINE FOOD AND BUSINESS DELIVERY SYSTEM (CAMPUS)
 The objective of this project is to create an online food delivery web application that consist of
 vendors local to Universiti Putra Malaysia, including cafeterias in colleges and personal
 businesses.
